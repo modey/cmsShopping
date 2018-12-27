@@ -1,0 +1,97 @@
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\MvcLocalization.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\MvcLocalization.pdb
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\ar-SA\MvcLocalization.resources.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\en-GB\MvcLocalization.resources.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\hi-IN\MvcLocalization.resources.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\mr-IN\MvcLocalization.resources.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\Antlr3.Runtime.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\EntityFramework.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\Newtonsoft.Json.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\System.Net.Http.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\System.Net.Http.Formatting.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\System.Net.Http.WebRequest.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\System.Web.Http.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\System.Web.Http.WebHost.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\System.Web.Mvc.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\System.Web.Optimization.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\System.Web.Providers.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\System.Web.Razor.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\System.Web.WebPages.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\System.Web.WebPages.Razor.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\WebGrease.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\EntityFramework.xml
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\Newtonsoft.Json.xml
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\System.Net.Http.xml
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\System.Net.Http.Formatting.xml
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\System.Net.Http.WebRequest.xml
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\System.Web.Http.xml
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\System.Web.Http.WebHost.xml
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\System.Web.Mvc.xml
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\System.Web.Razor.xml
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\System.Web.WebPages.xml
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\bin\System.Web.WebPages.Razor.xml
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\obj\Debug\MvcLocalization.csprojResolveAssemblyReference.cache
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\obj\Debug\MvcLocalization.LocalResource.Resource.resources
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\obj\Debug\MvcLocalization.LocalResource.Resource.ar-SA.resources
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\obj\Debug\MvcLocalization.LocalResource.Resource.en-GB.resources
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\obj\Debug\MvcLocalization.LocalResource.Resource.hi-IN.resources
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\obj\Debug\MvcLocalization.LocalResource.Resource.mr-IN.resources
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\obj\Debug\MvcLocalization.csproj.GenerateResource.Cache
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\obj\Debug\ar-SA\MvcLocalization.resources.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\obj\Debug\en-GB\MvcLocalization.resources.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\obj\Debug\hi-IN\MvcLocalization.resources.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\obj\Debug\mr-IN\MvcLocalization.resources.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\obj\Debug\MvcLocalization.dll
+C:\Users\sai\Documents\Visual Studio 2012\Projects\MvcLocalization\MvcLocalization\obj\Debug\MvcLocalization.pdb
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\MvcLocalization.dll.config
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\MvcLocalization.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\MvcLocalization.pdb
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\ar-SA\MvcLocalization.resources.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\en-GB\MvcLocalization.resources.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\hi-IN\MvcLocalization.resources.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\mr-IN\MvcLocalization.resources.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\Antlr3.Runtime.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\EntityFramework.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\Microsoft.Web.Infrastructure.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\Newtonsoft.Json.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\System.Net.Http.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\System.Net.Http.Formatting.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\System.Net.Http.WebRequest.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\System.Web.Http.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\System.Web.Http.WebHost.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\System.Web.Mvc.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\System.Web.Optimization.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\System.Web.Providers.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\System.Web.Razor.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\System.Web.WebPages.Deployment.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\System.Web.WebPages.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\System.Web.WebPages.Razor.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\WebGrease.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\EntityFramework.xml
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\Newtonsoft.Json.xml
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\System.Net.Http.xml
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\System.Net.Http.Formatting.xml
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\System.Net.Http.WebRequest.xml
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\System.Web.Http.xml
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\System.Web.Http.WebHost.xml
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\System.Web.Mvc.xml
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\System.Web.Razor.xml
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\System.Web.WebPages.xml
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\System.Web.WebPages.Deployment.xml
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\bin\System.Web.WebPages.Razor.xml
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\obj\Debug\MvcLocalization.csprojResolveAssemblyReference.cache
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\obj\Debug\MvcLocalization.LocalResource.Resource.resources
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\obj\Debug\MvcLocalization.LocalResource.Resource.ar-SA.resources
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\obj\Debug\MvcLocalization.LocalResource.Resource.en-GB.resources
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\obj\Debug\MvcLocalization.LocalResource.Resource.hi-IN.resources
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\obj\Debug\MvcLocalization.LocalResource.Resource.mr-IN.resources
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\obj\Debug\MvcLocalization.csproj.GenerateResource.Cache
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\obj\Debug\ar-SA\MvcLocalization.resources.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\obj\Debug\en-GB\MvcLocalization.resources.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\obj\Debug\hi-IN\MvcLocalization.resources.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\obj\Debug\mr-IN\MvcLocalization.resources.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\obj\Debug\MvcLocalization.dll
+E:\VISUAL-STUDIO-PROJECTS\MvcLocalization\MvcLocalization\obj\Debug\MvcLocalization.pdb
